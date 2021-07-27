@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dennis</title>
-    <link>https://hugo-toha.github.io/</link>
+    <link>include2md.github.io.git/</link>
     <description>Recent content on Dennis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-toha.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="include2md.github.io.git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resultados de Búsqueda</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño search relacionada.
 No se muestra ningún contenido aquí, todo el contenido se basa en la plantilla layouts/page/search.html
 Establecer una prioridad muy baja en el mapa del sitio le dirá a los motores de búsqueda que éste no es un contenido importante.
@@ -22,10 +22,10 @@ Configuración inicial La búsqueda depende del tipo de contenido de salida adic
     
     <item>
       <title>Resultados de Búsqueda</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño search relacionada.
 No se muestra ningún contenido aquí, todo el contenido se basa en la plantilla layouts/page/search.html
 Establecer una prioridad muy baja en el mapa del sitio le dirá a los motores de búsqueda que éste no es un contenido importante.
@@ -35,10 +35,10 @@ Configuración inicial La búsqueda depende del tipo de contenido de salida adic
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -48,10 +48,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -61,10 +61,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -74,10 +74,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -87,10 +87,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -100,10 +100,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -113,10 +113,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -126,10 +126,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -139,10 +139,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -152,10 +152,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -165,10 +165,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -178,10 +178,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -191,10 +191,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -204,10 +204,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -217,10 +217,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -230,10 +230,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -243,10 +243,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -256,10 +256,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -269,10 +269,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -282,10 +282,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -295,10 +295,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -308,10 +308,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>অনুসন্ধানের ফলাফল</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -321,10 +321,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>অনুসন্ধানের ফলাফল</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -334,10 +334,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>GenGitReport</title>
-      <link>https://hugo-toha.github.io/posts/side-projects/gengitreport/</link>
+      <link>include2md.github.io.git/posts/side-projects/gengitreport/</link>
       <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/side-projects/gengitreport/</guid>
+      <guid>include2md.github.io.git/posts/side-projects/gengitreport/</guid>
       <description>GenGitReport Notice: Following example and picture is dummy data.(so commit message is informal.)
  Sometimes I need to quickly recall history commit to debug when emergency case. Sometimes I need to create a weekly or monthly report to display what i done.  So I build this tiny tool to help me reach above goal.
  Example:
@@ -346,30 +346,30 @@ If I have a dummy commit like following snapshots.  Dummy git commit   Then I ca
     
     <item>
       <title>Stock</title>
-      <link>https://hugo-toha.github.io/posts/side-projects/stock/</link>
+      <link>include2md.github.io.git/posts/side-projects/stock/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/side-projects/stock/</guid>
+      <guid>include2md.github.io.git/posts/side-projects/stock/</guid>
       <description>Stock Years ago, i was interested in Taiwan stock, so I developed this side-project to collect data and display information.
 I collect the data from https://mops.twse.com.tw/mops/web/index by using Python and selenium to trigger schedule task. Build Rest API by using Python, Mysql, Django and DRF. Build Front-end part by using Vue.js framework to display stock time series data such us table and chart. i put this project into GCP cloud back then (currently i run out my free quota, so i turn off it…)</description>
     </item>
     
     <item>
       <title>Lotto</title>
-      <link>https://hugo-toha.github.io/posts/side-projects/lotto/</link>
+      <link>include2md.github.io.git/posts/side-projects/lotto/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/side-projects/lotto/</guid>
+      <guid>include2md.github.io.git/posts/side-projects/lotto/</guid>
       <description>Lotto When I am in A10 company as a welfare committee members, I developed this tiny side-project for the lucky draw at year end party. I took 1~2 day to develop it based javascript and three.js library to reach this 3D lotto. Fun of this project is to simulate card game to do shuffle and deal action to reach visual effect display.
  lotto     </description>
     </item>
     
     <item>
       <title>Game Bot - Maze</title>
-      <link>https://hugo-toha.github.io/posts/side-projects/game-bot-maze/</link>
+      <link>include2md.github.io.git/posts/side-projects/game-bot-maze/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/side-projects/game-bot-maze/</guid>
+      <guid>include2md.github.io.git/posts/side-projects/game-bot-maze/</guid>
       <description>Game Bot - Maze Many years ago, I try to write a script to play mobile rpg video game automatically (only for testing).
 Maze is a very important element in rpg game. When player try to pass maze, there is usually random encounter battle or event and also in the end of maze have a boss battle.
 There are two interesting question
@@ -378,30 +378,30 @@ There are two interesting question
     
     <item>
       <title>Game Bot - Fishing</title>
-      <link>https://hugo-toha.github.io/posts/side-projects/game-bot-fishing/</link>
+      <link>include2md.github.io.git/posts/side-projects/game-bot-fishing/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/side-projects/game-bot-fishing/</guid>
+      <guid>include2md.github.io.git/posts/side-projects/game-bot-fishing/</guid>
       <description>Game Bot - Fishing Many years ago, i try to write a script to play video game automatically (only for testing).
 Fishing is a mini game in WoW. This basic rule of this Fishing game is that player throw fishing rod(random position). And then player should wait the bait splash water (random time and no fix pattern for splash water because 3d) to quickly find the bait and click them at right time.</description>
     </item>
     
     <item>
       <title>3D Navigation System</title>
-      <link>https://hugo-toha.github.io/posts/side-projects/ikidowi/</link>
+      <link>include2md.github.io.git/posts/side-projects/ikidowi/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/side-projects/ikidowi/</guid>
+      <guid>include2md.github.io.git/posts/side-projects/ikidowi/</guid>
       <description>3D Navigation System This is my independent study project when i am a collage student.
 At that time we build editor and let admin user can quickly build a scene with basic node info, such as building description, building node position and path graph.  Editor - complex path and node    Editor - debug shortest path   And also display visual scene to client. client can navigate the scene like playing video game.</description>
     </item>
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>include2md.github.io.git/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>include2md.github.io.git/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
